@@ -24,9 +24,9 @@
 
 1. Разработать многозадачное приложение, выполняющее получение, сбор и вывод системной информации в соответствии с вариантом задания (таблица 1). Номер варианта задания на курсовую работу совпадает с номером, под которым записана фамилия студента в журнале группы. Мой вариант 16.
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%201.png)
+![image](https://github.com/user-attachments/assets/a1a359c6-0a5f-4b4d-9aa1-e1e9b17e6407)
+![image](https://github.com/user-attachments/assets/96da5769-21fa-4609-a132-1071c1ed1db3)
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%202.png)
 
 ## **Общие указания к выполнению работы**
 
@@ -101,19 +101,23 @@
 **Результаты:**
 Открываем три терминала и там запускаем два сервера и клиент
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%203.png)
+![image](https://github.com/user-attachments/assets/a697f2ee-fd94-472d-a46e-38a5fdb7c8ae)
+
 
 Подключение успешно выполнено. Запрашиваем информацию у первого сервера 
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%204.png)
+![image](https://github.com/user-attachments/assets/94407124-bd86-4bdb-b618-690e08412722)
+
 
 Аналогично запрашиваем информацию у второго сервера 
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%205.png)
+![image](https://github.com/user-attachments/assets/66d63db4-b182-48f3-930b-83f12d759d88)
+
 
 Пробуем создать новый сервер
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%206.png)
+![image](https://github.com/user-attachments/assets/fe1e159d-dd17-4279-abcc-772b4b4d214e)
+
 
 Как видим это невозможно
 
@@ -249,7 +253,8 @@ int serverPort;
 
 Подключаемся с клиента в Windows
 
-![Untitled](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%A1%20b1191ee1b71f463d8947b66f0304e2b6/Untitled%207.png)
+![image](https://github.com/user-attachments/assets/4f18236e-9514-4cec-87ca-10aa559aed6e)
+
 
 ### Дополнительное задание 3
 
